@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+.env
+.venv/
+venv/
+
+# Data (raw judgments can be re-scraped; don't commit large files)
+data/raw/
+data/processed/
+*.json.gz
+
+# Models (use HuggingFace Hub instead)
+models/
+
+# Results (commit only summary CSVs, not full outputs)
+results/outputs/
+
+# Notebooks (strip outputs before committing)
+.ipynb_checkpoints/
+
+# API keys
+.env
+secrets.yaml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Wandb
+wandb/

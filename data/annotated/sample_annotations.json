@@ -1,0 +1,48 @@
+{
+  "doc_id": "257876",
+  "title": "State of Maharashtra vs. Ramesh (Sample)",
+  "category": "murder",
+  "primary_intent": "murder",
+  "intent_phrases": [
+    "The appellant sole accused is convicted of committing the murder of one Shailesh Balkrishna Junghare.",
+    "He was assaulted with the help of knife on 23/09/2014 at about 7.15 p.m. in front of house of Rajesh Manohar Rendke.",
+    "On the complaint of one Lukesh Pawar, Kotwali Police Station, Nagpur initially registered an offence under Section 307 of the Indian Penal Code."
+  ],
+  "bio_sentences": [
+    {
+      "sentence": "The appellant sole accused is convicted of committing the murder of one Shailesh Balkrishna Junghare.",
+      "label": "B-INTENT"
+    },
+    {
+      "sentence": "He was assaulted with the help of knife on 23/09/2014 at about 7.15 p.m. in front of house of Rajesh Manohar Rendke.",
+      "label": "B-INTENT"
+    },
+    {
+      "sentence": "The learned Sessions Judge, Nagpur convicted the appellant for the offence punishable under Section 302 of IPC.",
+      "label": "B-INTENT"
+    },
+    {
+      "sentence": "The court heard arguments from both sides regarding the chain of evidence.",
+      "label": "O"
+    },
+    {
+      "sentence": "The prosecution examined thirteen witnesses in all.",
+      "label": "O"
+    },
+    {
+      "sentence": "On the complaint of one Lukesh Pawar, Kotwali Police Station, Nagpur initially registered an offence under Section 307 of the Indian Penal Code.",
+      "label": "B-INTENT"
+    },
+    {
+      "sentence": "The post-mortem report confirmed death due to stab wounds.",
+      "label": "O"
+    },
+    {
+      "sentence": "We are of the considered opinion that the prosecution has proved the guilt of the accused beyond all reasonable doubts.",
+      "label": "B-INTENT"
+    }
+  ],
+  "num_sentences": 8,
+  "num_intent_sentences": 5,
+  "_note": "This is a sample/template. Replace with real annotated documents."
+}
