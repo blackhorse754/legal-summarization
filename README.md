@@ -2,7 +2,7 @@
 
 A research repository for automatic summarization of Indian legal case judgments, with a novel **intent-phrase-based evaluation framework** that correlates strongly (F1 Pearson r = 0.86) with human judgment.
 
-> Originally conceived in 2021. Rebuilt in 2026 using modern NLP tooling.
+> Originally conceived in 2021 and rebuilt in 2026.
 
 ---
 
